@@ -1,8 +1,8 @@
 # nba-coaching
 
-There are a lot of different stats with odd acronymns aimed at measuring players' on court value (BPM, RAPM, RPM, PER, WS, etc), but no such stats exist for coaches. There's a pretty good reason why though: it is difficult to seperate out what coaches are doing from what the players on the court are doing.
+There are a lot of different stats with odd acronymns aimed at measuring players' on court value (BPM, RAPM, RPM, PER, WS, etc), but no such stat exists for coaches. There's a good reason why though: it is hard to seperate out what coaches are doing from what the players on the court are doing. 
 
-It would be a naive approach to look at a coaches' win percentage because players rarely change teams mid-season, and players often have a much larger impact on team success. If a good coach goes to a bad team (or has bad talent), the team doesn't suddenly become good, usually the team becomes only slightly better.
+A naive approach, is to look at a coaches' win percentage because players rarely change teams mid-season, and players often have a much larger impact on team success.
 
 One idea: **good coaches maximize their players' talent**. How can we measure that?
 
