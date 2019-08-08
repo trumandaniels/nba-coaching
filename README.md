@@ -23,15 +23,17 @@ If you instead only look at wide open shots (very good looks), Detroit, Toronto,
 
 ![Wide Open Shots](wide-open-off-vs-def.png)
 
-
-
 This has a lot of problems though. It doesn't include pace, how many shots or the quality of shots taken. 
 
-![]()
+![Taken-and-Allowed](perc-open-taken-vs-allowed.png)
 
 We can solve both these problem by plotting the percentage of shots that are open instead of per game. Boston still is an outlier offensively, but a little worse defensively. Orlando looks a little worse offensively, which means they're either not creating as many shot opportunities as other teams or they're getting free throws instead. Surprisingly the Clippers are terrible at getting open looks but have also convinced other teams to not get them either.
 
-How well are teams able to take advantage of these open looks? This graph is probably more biased by player value (Golden State is absurd at shooting!).
+How well are teams able to take advantage of these open looks? 
+
+![open-shots-vs-efg](open-taken-vs-open-efg.png)
+
+This graph is probably more biased by player value (Golden State is absurd at shooting!).
 
 So we know that some teams are able to get better open looks than others, but what if they're taking shots from a poor **place on the floor**?
 
