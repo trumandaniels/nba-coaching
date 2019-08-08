@@ -2,9 +2,9 @@
 
 There are a lot of different stats with odd acronymns aimed at measuring players' on court value (BPM, RAPM, RPM, PER, WS, etc), but no such stat exists for coaches. There's a good reason why though: it is hard to seperate out what coaches are doing from what the players on the court are doing. 
 
-A naive approach, is to look at a coaches' win percentage because players rarely change teams mid-season, and players often have a much larger impact on team success.
+A naive approach is to look at a coaches' win percentage because players often have a much larger impact on team success.
 
-One idea: **good coaches maximize their players' talent**. How can we measure that?
+One idea is that **good coaches maximize their players' talent**, but how can we measure that? By getting 
 
 So what does a high quality shot look like?
 
@@ -31,13 +31,13 @@ How well are teams able to take advantage of these open looks?
 
 ![open-shots-vs-efg](open-taken-vs-open-efg.png)
 
-This graph is probably more biased by player value (Golden State is absurd at shooting!).
+Effective Field goal percentage is probably more biased by player value (Golden State is absurd at shooting!).
 
 So we know that some teams are able to get better open looks than others, but what if they're taking shots from a poor **place on the floor**?
 
 The expected value of a shot in the restricted area is 1.25, in the paint (not including the RA) it is 0.78. Midrange shots net us 0.81 points on average. Corner Three's and 3's above the break provide 1.13 and 1.04 points respectively. Over the last 10 years teams have taken more shots from places with higher expected value. Teams are taking way way way more threes than ever before because they're so much better than mid-range shots.
 
-Trying to account for this, I took a look at a how teams stack up good shots here.
+We can look at how good teams are at shooting from the best places on the floor:
 
 ![good-shots-taken-vs-allowed](good-shots-taken-vs-allowed.png)
 
