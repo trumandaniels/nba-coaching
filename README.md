@@ -4,7 +4,7 @@ There are a lot of different stats with odd acronymns aimed at measuring players
 
 A naive approach is to look at a coaches' win percentage because players often have a much larger impact on team success.
 
-One idea is that **good coaches maximize their players' talent**, but how can we measure that? By getting 
+One idea is that **good coaches maximize their players' talent**, but how can we measure that? Because Coaches design the offense, they have some say over which players are able to take, along with the quality of those shots.
 
 So what does a high quality shot look like?
 
